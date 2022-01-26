@@ -1,0 +1,21 @@
+{
+    "num_epochs": 100,
+    "batch_size": 128,
+    "num_filters": 32,
+    "filter_sizes": "3,4,5",
+    "embedding_dim": 200,
+    "l2_reg_lambda": 0.0,
+    "evaluate_every": 200,
+    "dropout_keep_prob": 0,
+    "n_classes": 6,
+    "learning_rate": 0.1,
+    "Evaluate_every": 200,
+    "Delta": 0.5,
+    "NUM_Words":10000,
+    "Attention_size":50,
+    "INDEX_FROM":3,
+    "Hidden_size": 51,
+    "num_layers":4,
+    "dilations": "1,2,4"
+
+}
